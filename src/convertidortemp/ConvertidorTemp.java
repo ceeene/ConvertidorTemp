@@ -6,8 +6,7 @@
 package convertidortemp;
 
 /**
- *
- * @author Celia
+ * Celia
  */
 public class ConvertidorTemp {
 
